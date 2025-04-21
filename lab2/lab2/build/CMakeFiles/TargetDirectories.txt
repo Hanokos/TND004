@@ -1,0 +1,3 @@
+F:/LIU/TND004/lab2/build/CMakeFiles/Lab2.dir
+F:/LIU/TND004/lab2/build/CMakeFiles/ALL_BUILD.dir
+F:/LIU/TND004/lab2/build/CMakeFiles/ZERO_CHECK.dir

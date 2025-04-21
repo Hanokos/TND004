@@ -1,0 +1,6 @@
+﻿  Building Custom Rule F:/LIU/TND004/lab2/code/CMakeLists.txt
+  lab2.cpp
+  set.cpp
+  Generating Code...
+LINK : warning LNK4300: ignoring '/INCREMENTAL' because input module contains ASAN metadata
+  Lab2.vcxproj -> F:\LIU\TND004\lab2\build\Debug\Lab2.exe
